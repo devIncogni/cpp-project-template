@@ -5,7 +5,7 @@
             "name": "LLDB Debug CMake",
             "type": "lldb",
             "request": "launch",
-            "program": "${workspaceFolder}/build/main",
+            "program": "${workspaceFolder}/bin/main",
             "args": [],
             "cwd": "${workspaceFolder}",
             "preLaunchTask": "CMake Build Debug"
